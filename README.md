@@ -74,3 +74,16 @@ This challenge is perfect for:
 Take the first step in mastering Next.js and building a portfolio of 30 amazing projects. Follow this repository for updates and daily challenges.  
 
 Let’s build something incredible together—one day at a time! 🚀  
+
+---
+
+## 🌐 Connect with Me
+
+- **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/shrikant9907/)
+- **Portfolio Link**: [Portfolio]([https://shrimo.com](https://shrikant9907.github.io/next-portfolio-live/))
+- **Company Website**: [Shrimo.com](https://shrimo.com)
+- **Blog**: [ReactToNext.com](https://reacttonext.com)
+- **YouTube Channel**: [React To Next - YouTube](https://youtube.com/@reacttonext)
+- **Dev.to**: [Follow on Dev.to](https://dev.to/shrikant9907)
+- **CodePen**: [Follow on CodePen](https://codepen.io/shrikantyadav)
+
